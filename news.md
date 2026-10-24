@@ -5,8 +5,7 @@ We have noticed a decrease in playtime and attention Vault Hunters has received 
 And thus we have decided that it would probably be best to swap it out for a new modpack.
 
 What is the modpack coming in place of Vault Hunters, you ask?
-That is yet to be decided, so head over to our discord at https://discord.gg/theredlegion and vote in #smp-announcements
-or suggest one in #smp-suggestions.
+That is yet to be decided, so head over to our discord at https://discord.gg/theredlegion and vote in #smp-announcements or suggest one in #smp-suggestions.
 
 ## 2026-10-01 — Tensura has been discontinued
 We have some sad news to share, we just shut down the Tensura modpack.
